@@ -1,2 +1,2 @@
-# aws-terraform
-AWS IaC using Terraform 
+# terraform-iacdevops-with-aws-codepipeline
+terraform-iacdevops-with-aws-codepipeline
